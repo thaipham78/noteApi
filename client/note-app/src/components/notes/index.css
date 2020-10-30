@@ -1,0 +1,33 @@
+.App{
+    width:400px;
+    margin: auto;
+    padding-top: 20px;
+}
+.one{
+    display: flex;
+    margin-top: 15px;
+    
+}
+.form{
+    margin-left: 30px;
+}
+ul{
+    padding:0px;
+    margin-top: 20px;
+}
+li {
+    width: 150px;
+    list-style-type: none;
+    margin-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    background-color: azure;
+}
+.list{
+    margin-right: 10px;
+}
+a:link {
+    text-decoration: none;
+    color:black
+  }
